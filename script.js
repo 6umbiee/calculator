@@ -6,8 +6,8 @@ function input(data) {
 }
 
 function equal() {
-  audio.play();
   audio.loop = true;
+  audio.play();
 }
 
 function cleardisplay() {
